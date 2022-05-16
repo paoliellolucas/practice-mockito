@@ -6,4 +6,4 @@
    3. Assert result
       1. Status
       2. Content
-2. 
+2. Repeat with all the classes
